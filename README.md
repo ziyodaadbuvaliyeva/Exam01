@@ -25,35 +25,22 @@
 **Natija:** `1`
 
 
-### 6. **Foydalanuvchi yoshini aniqlash (2024-yilga nisbatan)**
+### 5. **Foydalanuvchi yoshini aniqlash (2024-yilga nisbatan)**
 
 **Berilgan:** `t_yil = 1995`
 **Natija:** `29`
 
 ---
 
-
-### 7. **QQS bilan mahsulot narxini hisoblash (15%)**
+### 6. **QQS bilan mahsulot narxini hisoblash (15%)**
 
 **Berilgan:** `narx = 20000.0`
 **Natija:** `23000.0`
 
 ---
 
-### Task10
 
-**Bir stringni `*` operatori yordamida bir necha marta takrorlang**
-
-| Input      | Output   |
-| ---------- | -------- |
-| `'Hi'`, `3` | `HiHiHi` |
-
----
-
-
-### Task19
-
-**Stringning birinchi 5 ta belgisini slicing orqali oling**
+### 7. **Stringning birinchi 5 ta belgisini slicing orqali oling**
 
 | Input               | Output  |
 | ------------------- | ------- |
@@ -61,7 +48,7 @@
 
 ---
 
-### Task 13: Yozilgan harf katta harfmi?
+### 8. Yozilgan harf katta harfmi?
 
 **Masala**: Belgilangan harf katta harf ekanligini aniqlang.
 
@@ -70,9 +57,7 @@
 
 ---
 
-### Task26
-
-**f-string yordamida ism va yoshni birlashtiring**
+### 9. **f-string yordamida ism va yoshni birlashtiring**
 
 | Input                                                                    | Output       |
 | ------------------------------------- | --------------------------------------- |
@@ -80,9 +65,7 @@
 
 ---
 
-### Task18
-
-**Foydalanuvchi kiritgan kod faqat raqamlardan iboratligini tekshirish**
+### 10. **Foydalanuvchi kiritgan kod faqat raqamlardan iboratligini tekshirish**
 
 | Input              | Output |
 | ------------------ | ------ |
@@ -90,9 +73,7 @@
 
 ---
 
-### Task15
-
-**Gapda nuqta (`.`) necha marta qatnashganini sanang**
+### 11. **Gapda nuqta (`.`) necha marta qatnashganini sanang**
 
 | Input                                   | Output |
 | --------------------------------------- | ------ |
@@ -100,9 +81,8 @@
 
 ---
 
-### Task07
+### 12. **Matnda ma’lum bir so‘zning boshlanish pozitsiyasini topish**
 
-**Matnda ma’lum bir so‘zning boshlanish pozitsiyasini topish**
 `Python` so‘zi qayerdan boshlanganini toping.
 
 | Input                                                       | Output |
@@ -111,9 +91,9 @@
 
 ---
 
-### Task25 – Tozalangan foydalanuvchi ismi
+### 13. **Tozalangan foydalanuvchi ismi**
 
-**Foydalanuvchi yuborgan ismni ikki tomonini bo‘sh joylardan tozalang**
+Foydalanuvchi yuborgan ismni ikki tomonini bo‘sh joylardan tozalang
 
 | Input         | Output   |
 | ------------- | -------- |
@@ -122,9 +102,9 @@
 
 ---
 
-### Task27 – Document type aniqlash
+### 14. **Document type aniqlash**
 
-**Fayl nomi `.pdf`, `.docx`, yoki `.txt` bilan tugashini tekshiring**
+Fayl nomi `.pdf`, `.docx`, yoki `.txt` bilan tugashini tekshiring
 
 | Input          | Output  |
 | -------------- | ------- |
@@ -133,7 +113,7 @@
 
 ---
 
-### Task2 Bo'linuvchanlikni tekshirish
+### 15. **Bo'linuvchanlikni tekshirish**
 
 **Vazifa:** Foydalanuvchidan son kiritsini so'rang. Shu son:
 - 2 ga bo'linishini
@@ -151,7 +131,7 @@ Chiqish:
 
 ---
 
-### Task5 Yoshga bog'liq chegirma
+### 16. **Yoshga bog'liq chegirma**
 
 **Vazifa:** 
 Chipta narxi 100 so'm. Foydalanuvchidan yoshini so'rang va chegirmani qo'llang:
@@ -167,7 +147,7 @@ Chiqish: Yakuniy narx: 50 so'm (50% chegirma qo'llanildi)
 
 ---
 
-### Task3 Baholash tizimi
+### 17. **Baholash tizimi**
 
 **Vazifa:** Foydalanuvchidan ball (0-100) so'rang va bahoni chiqaring:
 - 90-100: "A (A'lo)"
@@ -180,9 +160,7 @@ Agar 0-100 oralig'idan tashqari son kiritilsa, `"Ball 0-100 oralig'ida bo'lishi 
 
 ---
 
----
-
-### Task4 BMI hisoblash va tasnif
+### 18. **BMI hisoblash va tasnif**
 
 **Vazifa:** Foydalanuvchidan vazn (kg) va bo'y (m) so'rang. BMI ni hisoblang va tasniflang:
 - BMI < 18.5: "Kam vazn"
@@ -207,7 +185,7 @@ Tasnif: Normal vazn
 
 ---
 
-### Task Stringdagi unli harflarni sanang
+### 19. **Stringdagi unli harflarni sanang**
 
 Foydalanuvchidan matn oling. `for` yordamida nechta unli harf (`a, e, i, o, u`) borligini aniqlang.
 
@@ -215,9 +193,6 @@ Foydalanuvchidan matn oling. `for` yordamida nechta unli harf (`a, e, i, o, u`) 
 
 ---
 
-### Task4 To‘g‘ri javob kiritilmaguncha davom et
+### 20. **To‘g‘ri javob kiritilmaguncha davom et**
 
 > Dastur foydalanuvchidan “O‘zbekiston poytaxti nima?” deb so‘raydi. “Toshkent” deb to‘g‘ri javob berguncha so‘rashda davom etadi.
-
----
-
