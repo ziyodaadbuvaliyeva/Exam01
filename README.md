@@ -195,4 +195,4 @@ Foydalanuvchidan matn oling. `for` yordamida nechta unli harf (`a, e, i, o, u`) 
 
 ### 20. **To‘g‘ri javob kiritilmaguncha davom et**
 
-> Dastur foydalanuvchidan “O‘zbekiston poytaxti nima?” deb so‘raydi. “Toshkent” deb to‘g‘ri javob berguncha so‘rashda davom etadi.
+Dastur foydalanuvchidan “O‘zbekiston poytaxti nima?” deb so‘raydi. “Toshkent” deb to‘g‘ri javob berguncha so‘rashda davom etadi.
