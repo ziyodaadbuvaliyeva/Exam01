@@ -24,16 +24,6 @@
 **Berilgan:** `a = 17`, `b = 4`
 **Natija:** `1`
 
----
-
-### 5. **Sonni 5 ga bo‘lib butun qismini olish**
-
-**Berilgan:** `son = 22`
-**Natija:** `4`
-
----
-
-
 
 ### 6. **Foydalanuvchi yoshini aniqlash (2024-yilga nisbatan)**
 
@@ -50,17 +40,6 @@
 
 ---
 
-
-### Task09
-
-**Ikki stringni `+` operatori yordamida birlashtiring**
-
-| Input               | Output       |
-| ------------------- | ------------ |
-| `'Hello'`, `'World'` | `HelloWorld` |
-
----
-
 ### Task10
 
 **Bir stringni `*` operatori yordamida bir necha marta takrorlang**
@@ -71,16 +50,6 @@
 
 ---
 
-### Task11
-
-**Ikki string `==` operatori bilan teng ekanligini tekshiring**
-
-| Input                | Output  |
-| -------------------- | ------- |
-| `'apple'`, `'apple'` | `True`  |
-| `'apple'`, `'Apple'` | `False` |
-
----
 
 ### Task19
 
@@ -92,6 +61,13 @@
 
 ---
 
+### Task 13: Yozilgan harf katta harfmi?
+
+**Masala**: Belgilangan harf katta harf ekanligini aniqlang.
+
+**Input**: `letter` (str, 1 ta belgi)
+**Output**: `True` yoki `False`
+
 ---
 
 ### Task26
@@ -101,3 +77,147 @@
 | Input                                                                    | Output       |
 | ------------------------------------- | --------------------------------------- |
 | `"Ali"`, `20` | `My name is Ali and I am 20 years old.` |
+
+---
+
+### Task18
+
+**Foydalanuvchi kiritgan kod faqat raqamlardan iboratligini tekshirish**
+
+| Input              | Output |
+| ------------------ | ------ |
+| `"2025"` | `True` |
+
+---
+
+### Task15
+
+**Gapda nuqta (`.`) necha marta qatnashganini sanang**
+
+| Input                                   | Output |
+| --------------------------------------- | ------ |
+| `"file.txt.2025.report.doc"`, `"."` | `3`    |
+
+---
+
+### Task07
+
+**Matnda ma’lum bir so‘zning boshlanish pozitsiyasini topish**
+`Python` so‘zi qayerdan boshlanganini toping.
+
+| Input                                                       | Output |
+| ----------------------------------------------------------- | ------ |
+| `"Men Python dasturlash tilini o‘rganaman"`, `"Python"` | `4`    |
+
+---
+
+### Task25 – Tozalangan foydalanuvchi ismi
+
+**Foydalanuvchi yuborgan ismni ikki tomonini bo‘sh joylardan tozalang**
+
+| Input         | Output   |
+| ------------- | -------- |
+| `"   ali"`    | `Ali`    |
+| `"  diyora "` | `Diyora` |
+
+---
+
+### Task27 – Document type aniqlash
+
+**Fayl nomi `.pdf`, `.docx`, yoki `.txt` bilan tugashini tekshiring**
+
+| Input          | Output  |
+| -------------- | ------- |
+| `"report.pdf"` | `True`  |
+| `"photo.jpeg"` | `False` |
+
+---
+
+### Task2 Bo'linuvchanlikni tekshirish
+
+**Vazifa:** Foydalanuvchidan son kiritsini so'rang. Shu son:
+- 2 ga bo'linishini
+- 3 ga bo'linishini  
+- 5 ga bo'linishini
+
+**Misol:**
+```
+Kirish: 30
+Chiqish: 
+30 soni 2 ga bo'linadi
+30 soni 3 ga bo'linadi
+30 soni 5 ga bo'linadi
+```
+
+---
+
+### Task5 Yoshga bog'liq chegirma
+
+**Vazifa:** 
+Chipta narxi 100 so'm. Foydalanuvchidan yoshini so'rang va chegirmani qo'llang:
+- 7 yoshgacha (0-6): 50% chegirma
+- 7-17 yosh: 20% chegirma  
+- 60 yoshdan katta: 30% chegirma
+
+**Misol:**
+```
+Kirish: 5
+Chiqish: Yakuniy narx: 50 so'm (50% chegirma qo'llanildi)
+```
+
+---
+
+### Task3 Baholash tizimi
+
+**Vazifa:** Foydalanuvchidan ball (0-100) so'rang va bahoni chiqaring:
+- 90-100: "A (A'lo)"
+- 80-89: "B (Yaxshi)"  
+- 70-79: "C (Qoniqarli)"
+- 60-69: "D (Qoniqarsiz)"
+- 0-59: "F (Rad)"
+
+Agar 0-100 oralig'idan tashqari son kiritilsa, `"Ball 0-100 oralig'ida bo'lishi kerak!"` deb chiqaring.
+
+---
+
+---
+
+### Task4 BMI hisoblash va tasnif
+
+**Vazifa:** Foydalanuvchidan vazn (kg) va bo'y (m) so'rang. BMI ni hisoblang va tasniflang:
+- BMI < 18.5: "Kam vazn"
+- 18.5 ≤ BMI < 25: "Normal vazn"
+- 25 ≤ BMI < 30: "Ortiqcha vazn"  
+- BMI ≥ 30: "Semizlik"
+
+**Formula:** BMI = vazn / (bo'y)²
+
+**Qo'shimcha tekshiruvlar:**
+- Vazn va bo'y musbat bo'lishi kerak
+- Bo'y 0.5-3.0 m oralig'ida bo'lishi kerak
+- Vazn 1-500 kg oralig'ida bo'lishi kerak
+
+**Misol:**
+```
+Vazn: 70
+Bo'y: 1.75
+BMI: 22.86
+Tasnif: Normal vazn
+```
+
+---
+
+### Task Stringdagi unli harflarni sanang
+
+Foydalanuvchidan matn oling. `for` yordamida nechta unli harf (`a, e, i, o, u`) borligini aniqlang.
+
+➡️ Masalan: `"hello world"` → `3`
+
+---
+
+### Task4 To‘g‘ri javob kiritilmaguncha davom et
+
+> Dastur foydalanuvchidan “O‘zbekiston poytaxti nima?” deb so‘raydi. “Toshkent” deb to‘g‘ri javob berguncha so‘rashda davom etadi.
+
+---
+
