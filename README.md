@@ -153,21 +153,21 @@
 
 ### 🔹 18. Listdan eng katta va eng kichik elementni topish
 
-🧮 Vazifa: Foydalanuvchidan 6 ta sonlardan iborat list oling. Shu ro‘yxatdagi eng katta sonni aniqlang.
-📥 Kirish: `sonlar = [45, 12, 78, 34, 89, 23]`
+🧮 Vazifa: Foydalanuvchidan 6 ta sonlardan iborat list oling. Shu ro‘yxatdagi eng katta sonni aniqlang.\
+📥 Kirish: `sonlar = [45, 12, 78, 34, 89, 23]`\
 📤 Chiqish: `Eng katta son: 89, Eng kichik son: 12`
 
 ---
 
 ### 🔹 19. Listdagi unli harflarni sanang
 
-**🧮 Vazifa:** Harflardan iborat list berilgan. Listdagi `a, e, i, o, u` unli harflar sonini hisoblang./
-**📥 Kirish:** `letters = ["h", "e", "l", "l", "o", "w", "O", "r", "l", "d"]`/
+**🧮 Vazifa:** Harflardan iborat list berilgan. Listdagi `a, e, i, o, u` unli harflar sonini hisoblang.
+**📥 Kirish:** `letters = ["h", "e", "l", "l", "o", "w", "O", "r", "l", "d"]`\
 **📤 Chiqish:** `3`
 
 ---
 
 ### 🔹 20. To‘g‘ri javob kiritilmaguncha davom et
 
-**🧮 Vazifa:** "O‘zbekiston poytaxti nima?" degan savolga "Toshkent" deb to‘g‘ri javob berilmaguncha so‘rashni davom ettiring. Javobdagi belgilar case-sensitive bo'lmasin ya'ni katta har bilan kichik harf bir xil qaralsin `"a"` = `"A"`.
+**🧮 Vazifa:** "O‘zbekiston poytaxti nima?" degan savolga "Toshkent" deb to‘g‘ri javob berilmaguncha so‘rashni davom ettiring. Javobdagi belgilar case-sensitive bo'lmasin ya'ni katta har bilan kichik harf bir xil qaralsin `"a"` = `"A"`.\
 **📤 Chiqish:** `"To‘g‘ri!"` (to‘g‘ri javob berilganda)
